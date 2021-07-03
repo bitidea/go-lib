@@ -10,6 +10,7 @@
 | hutool-db          |     https://pkg.go.dev/gorm.io/gorm                                               |
 | hutool-http        |     https://pkg.go.dev/net/http                                                   |
 | hutool-log         |     https://pkg.go.dev/log                                                         |
+| hutool-setting     |     https://pkg.go.dev/github.com/spf13/viper                                              |
 | hutool-system      |     https://pkg.go.dev/os 和 https://pkg.go.dev/runtime                             |
 | hutool-json        |     https://pkg.go.dev/encoding/json                                              |
 | hutool-captcha     |     https://pkg.go.dev/github.com/go-macaron/captcha                              |
@@ -21,3 +22,6 @@
 | hutool-extra-emoji     |    https://pkg.go.dev/github.com/kyokomi/emoji                                |
 | hutool-extra-segment   |    https://pkg.go.dev/github.com/yanyiwu/gojieba                             |
 | hutool-extra-ftp       |    https://pkg.go.dev/github.com/jlaffaye/ftp                                  |
+| websocket              |    https://pkg.go.dev/github.com/gorilla/websocket                            |
+| redis                  |    https://pkg.go.dev/github.com/gomodule/redigo/redis                        |
+
