@@ -11,7 +11,7 @@
 | websocket      |     https://github.com/gorilla/websocket                                                        |
 | jwt         |     https://github.com/lestrrat-go/jwx                                     |
 | redis                  |    https://github.com/go-redis/redis                        |
-| cli                  |    https://github.com/urfave/cli                        |
+| cli                  |    https://github.com/spf13/cobra                        |
 | decimal        | https://github.com/shopspring/decimal |
 | di  | https://github.com/google/wire |
 | uuid | https://github.com/gofrs/uuid |
