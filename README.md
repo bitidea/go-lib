@@ -7,7 +7,7 @@
 | web        |     https://github.com/gin-gonic/gin                                                  |
 | serializing  |     https://pkg.go.dev/github.com/spf13/viper                                              |
 | captcha     |     https://github.com/mojocn/base64Captcha                             |
-| xlsx         |     https://github.com/qax-os/excelize                                  |
+| excel         |     https://github.com/qax-os/excelize                                  |
 | websocket      |     https://github.com/gorilla/websocket                                                        |
 | jwt         |     https://github.com/lestrrat-go/jwx                                     |
 | redis                  |    https://github.com/go-redis/redis                        |
