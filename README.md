@@ -1,12 +1,12 @@
-# god
+# go-technology-selection
+Standard: easy to use, high performance, powerful
 
 | 模块                |     go 实现                                                                          |
 | -------------------|---------------------------------------------------------------------------------- |
 | crontab        |     https://github.com/go-co-op/gocron                                   |
-| orm          |     https://pkg.go.dev/gorm.io/gorm                                               |
-| web        |     https://github.com/gin-gonic/gin                                                  |
-| serializing  |     https://pkg.go.dev/github.com/spf13/viper                                              |
-| captcha     |     https://github.com/mojocn/base64Captcha                             |
+| orm          |     https://github.com/ent/ent                                              |
+| web        |     https://github.com/gofiber/fiber                                                  |
+| config  |     https://pkg.go.dev/github.com/spf13/viper                                              |
 | excel         |     https://github.com/qax-os/excelize                                  |
 | websocket      |     https://github.com/gorilla/websocket                                                        |
 | jwt         |     https://github.com/lestrrat-go/jwx                                     |
@@ -15,5 +15,5 @@
 | decimal        | https://github.com/shopspring/decimal |
 | di  | https://github.com/google/wire |
 | uuid | https://github.com/gofrs/uuid |
-| snowflake | https://github.com/bwmarrin/snowflake | 
+| log | https://github.com/rs/zerolog | 
 
