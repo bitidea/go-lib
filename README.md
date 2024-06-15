@@ -6,7 +6,7 @@ Standard: easy to use, high performance, powerful
 | crontab        |     https://github.com/go-co-op/gocron                                   |
 | orm          |     https://github.com/ent/ent                                              |
 | web        |     https://github.com/gofiber/fiber                                                  |
-| config  |     https://pkg.go.dev/github.com/spf13/viper                                              |
+| config  |     https://github.com/ilyakaznacheev/cleanenv                                              |
 | excel         |     https://github.com/qax-os/excelize                                  |
 | websocket      |     https://github.com/gorilla/websocket                                                        |
 | jwt         |     https://github.com/lestrrat-go/jwx                                     |
