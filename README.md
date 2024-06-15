@@ -1,7 +1,7 @@
 # go-technology-selection
 Standard: easy to use, high performance, powerful
 
-| 模块                |     go 实现                                                                          |
+| 模块                |     地址                                                                          |
 | -------------------|---------------------------------------------------------------------------------- |
 | crontab        |     https://github.com/go-co-op/gocron                                   |
 | orm          |     https://github.com/ent/ent                                              |
