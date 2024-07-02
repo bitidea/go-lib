@@ -3,11 +3,11 @@ Standard: easy to use, high performance, powerful
 
 | 模块 | 地址 |
 | -|-|
-| web | https://github.com/gofiber/fiber https://github.com/gin-gonic/gin |
-| orm | https://github.com/ent/ent https://github.com/go-gorm/gorm |
+| web | https://github.com/gin-gonic/gin https://github.com/gofiber/fiber |
+| orm | https://github.com/go-gorm/gorm https://github.com/ent/ent |
 | config | https://github.com/ilyakaznacheev/cleanenv |
 | test | https://github.com/stretchr/testify | 
-| log | https://github.com/rs/zerolog https://github.com/go-logr/logr | 
+| log | https://github.com/uber-go/zap https://github.com/rs/zerolog https://github.com/go-logr/logr | 
 | jose | https://github.com/lestrrat-go/jwx https://github.com/golang-jwt/jwt |
 | redis | https://github.com/go-redis/redis |
 | cli | https://github.com/spf13/cobra |
