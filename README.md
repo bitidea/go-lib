@@ -7,7 +7,7 @@ Standard: easy to use, high performance, powerful
 | orm | https://github.com/go-gorm/gorm https://github.com/ent/ent |
 | config | https://github.com/ilyakaznacheev/cleanenv https://github.com/spf13/viper |
 | test | https://github.com/onsi/ginkgo | 
-| log | https://github.com/uber-go/zap https://github.com/rs/zerolog https://github.com/go-logr/logr | 
+| log | https://github.com/uber-go/zap https://github.com/rs/zerolog | 
 | jose | https://github.com/golang-jwt/jwt https://github.com/lestrrat-go/jwx |
 | redis | https://github.com/go-redis/redis |
 | cli | https://github.com/spf13/cobra |
