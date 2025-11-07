@@ -5,9 +5,9 @@ Standard: easy to use, high performance, powerful
 | -|-|
 | web | https://github.com/gin-gonic/gin |
 | orm | https://github.com/go-gorm/gorm |
-| config | https://github.com/ilyakaznacheev/cleanenv https://github.com/spf13/viper |
+| config | https://github.com/knadh/koanf |
 | test | https://github.com/onsi/ginkgo | 
-| log | https://github.com/uber-go/zap https://github.com/rs/zerolog | 
+| log | https://github.com/uber-go/zap | 
 | jose | https://github.com/golang-jwt/jwt https://github.com/lestrrat-go/jwx |
 | redis | https://github.com/go-redis/redis |
 | cli | https://github.com/spf13/cobra |
