@@ -6,7 +6,7 @@ Standard: easy to use, high performance, powerful
 | web | https://github.com/gin-gonic/gin |
 | orm | https://github.com/go-gorm/gorm |
 | config | https://github.com/knadh/koanf |
-| test | https://github.com/onsi/ginkgo | 
+| test | https://github.com/stretchr/testify | 
 | log | https://github.com/uber-go/zap | 
 | jose | https://github.com/golang-jwt/jwt https://github.com/lestrrat-go/jwx |
 | redis | https://github.com/go-redis/redis |
@@ -15,7 +15,7 @@ Standard: easy to use, high performance, powerful
 | excel | https://github.com/qax-os/excelize |
 | websocket | https://github.com/gorilla/websocket |
 | decimal | https://github.com/shopspring/decimal |
-| di | https://github.com/google/wire https://github.com/uber-go/dig |
+| di | https://github.com/uber-go/dig |
 | uuid | https://github.com/google/uuid |
 | data structures | https://github.com/emirpasic/gods | 
 | fake data | https://github.com/brianvoe/gofakeit | 
