@@ -5,7 +5,7 @@ Standard: easy to use, high performance, powerful
 | -|-|
 | web | https://github.com/gin-gonic/gin |
 | orm | https://github.com/go-gorm/gorm |
-| config | https://github.com/knadh/koanf |
+| config | https://github.com/ilyakaznacheev/cleanenv |
 | test | https://github.com/stretchr/testify | 
 | log | https://github.com/uber-go/zap | 
 | jose | https://github.com/lestrrat-go/jwx |
