@@ -8,7 +8,7 @@ Standard: easy to use, high performance, powerful
 | config | https://github.com/ilyakaznacheev/cleanenv |
 | test | https://github.com/stretchr/testify |
 | log | https://github.com/uber-go/zap |
-| jose | https://github.com/lestrrat-go/jwx |
+| jose | https://github.com/golang-jwt/jwt |
 | redis | https://github.com/go-redis/redis |
 | cli | https://github.com/spf13/cobra |
 | crontab | https://github.com/go-co-op/gocron |
